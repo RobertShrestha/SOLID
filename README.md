@@ -29,3 +29,6 @@ How to detect Violations of ISP principle
 A. HIGH LEVEL MODULES SHOULD NOT DEPEND UPON LOW LEVEL MODULES. BOTH SHOULD DEPEND UPON ABSTRACTIONS.
 
 B. ABSTRACTIONS SHOULD NOT DEPEND UPON DETAILS. DETAILS SHOULD DEPEND UPON ABSTRACTIONS.
+
+
+#SOLIDprinciples #objectoriented #objectorienteddesign #OOP #classes #encapsulation #abstraction #polymorphism #interfaces #inheritance #cleancode #RobertMartin #UncleBob #PHP #Java #Python #JavaScript #TypeScript #Swift #designpatterns #coding #programming #tutorial #LearnSOLID #SOLIDtutorial #SOLIDexamples #SOLIDcode #SOLIDrepository #SOLIDresources #SOLIDprinciplesexplained
