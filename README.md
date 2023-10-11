@@ -20,7 +20,7 @@ Solutions
 - ### The Interface Segregation Principle (ISP)
 CLIENTS SHOULD NOT BE FORCED TO DEPEND UPON INTERFACES THAT THEY DO NOT USE.
 
-How to detech Violations of ISP principle
+How to detect Violations of ISP principle
   - Fat interface
   - Interfaces with Low Cohesion
   - Empty method Implementation
